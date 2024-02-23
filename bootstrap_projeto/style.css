@@ -1,0 +1,61 @@
+
+body{
+    background-color: whitesmoke;
+}
+
+.container-fluid{
+    background-color: tran;
+    img{
+        width:20px;
+        margin-left: 0;
+    }
+    a{
+        margin-right: 0;
+    }
+}
+
+.Dog_card{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    max-width: 300px; /* Optional: it ensures the image is responsive */
+    height: auto;
+
+}
+.dogs{
+    img{
+        width: 600px;
+        vertical-align: middle;
+        max-width: 100%; /* Optional: it ensures the image is responsive */
+        margin-top: 250px;
+        margin-left: 450px;
+    }
+}
+
+h2{
+    color: black;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Home_info{
+    h2{
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+      }
+    p{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    }
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+
